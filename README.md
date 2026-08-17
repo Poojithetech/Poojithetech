@@ -1,6 +1,34 @@
 # 💫 About Me:
 🔭 **I’m currently working on**<br>Cloud & Infrastructure – EUC Client Engineering at LTM, learning Microsoft 365, VDI, Intune, SCCM, and endpoint management.<br><br>👯 **I’m looking to collaborate on**<br>Data Science, Machine Learning, Cloud, and Full Stack Development projects.<br><br>🤝 **I’m looking for help with**<br>Cloud Infrastructure, EUC technologies, and improving my Data Science & Machine Learning skills.<br><br>🌱 **I’m currently learning**<br>Microsoft 365, Intune, SCCM, VDI, Application Packaging, PowerShell, Azure, and Cloud Infrastructure.<br><br>💬 **Ask me about**<br>Python, SQL, Power BI, Data Science, Machine Learning, Full Stack Development, and my projects.<br><br>⚡ **Fun fact**<br>I started with Data Science and now I’m exploring Cloud & Infrastructure—always curious to learn something new! 🚀<br>
 
+# 💼 Experience & Internships:
+
+### 🚀 LTM — Associate Trainee
+**Cloud & Infrastructure – EUC Client Engineering**  
+📅 July 2026 – Present | 📍 Hyderabad, Telangana
+
+Currently undergoing training in **End User Computing (EUC)** and **Client Engineering** within the Cloud & Infrastructure domain.
+
+🔹 Microsoft 365 (M365)  
+🔹 Virtual Desktop Infrastructure (VDI)  
+🔹 Microsoft Intune & SCCM  
+🔹 Application Packaging  
+🔹 Image Management  
+🔹 Digital Employee Experience (DEX)  
+🔹 Endpoint & Client Management  
+🔹 Software Deployment & Application Lifecycle Management
+
+---
+
+### 💻 StaffArc — Full Stack Development Intern
+📅 February 2026 – May 2026 | 📍 Visakhapatnam, Andhra Pradesh
+
+Successfully completed a **Full Stack Development Internship**, gaining practical experience in:
+
+🔹 Full Stack Web Development  
+🔹 Software Development Practices  
+🔹 IT & Web Development Projects  
+🔹 Frontend & Backend Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/poojitha-m-501775306/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Poojitha Medabayina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmedaboyinapoojitha@gmail.com) 
